@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://semitouts.github.io/sitemap/sitemap.txt
